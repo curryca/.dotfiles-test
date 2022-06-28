@@ -63,3 +63,5 @@ All of the available plugins are included by default.
 
 [SwitchHosts](https://oldj.github.io/SwitchHosts) is used for helping you to `Switch hosts quickly!`
 I just accidentally meet it in recent days, and I used [iHost](https://toolinbox.net/iHosts) before, but it is not so powerful if you don't want to pay for it.
+
+Making a change...
